@@ -1,0 +1,5 @@
+Virtual Environment aktivieren
+    $ venv\Scripts\activate
+    
+Server Starten
+    flask run
